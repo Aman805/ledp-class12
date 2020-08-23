@@ -1,0 +1,124 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+
+
+}
+
+.navbar-brand img {
+	width: 100px;
+	height: auto;
+}
+
+
+#carouselExampleIndicators {
+  margin-top: 40px;
+  background: #FCEAE8;
+}
+
+
+.carousel-content {
+  padding-left: 30px;
+}
+.carousel-content h1 {
+  font-size: 32px;
+  margin-bottom: 14px;
+}
+.carousel-content .price {
+  color: #FF136F;
+  margin-bottom: 20px;
+}
+.carousel-content .btn,.btn {
+  background: linear-gradient(45deg, #fb8fb8 0%, #FF136F 75%);
+  border: none;
+  padding: 10px 20px;
+}
+
+.carousel-indicators li {
+  background-color: #FF136F;
+}
+.cat{
+    padding: 10px 30px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+} 
+
+.bg-1{
+    background-color: orange;
+}
+
+.bg-2{
+    background-color: orchid;
+}
+
+.bg-3{
+    background-color: blue;
+}
+
+.categories{
+  margin: 40px auto;
+}
+.categories h1{
+    color: #fff;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.backpack h1 ,.showes h1 {
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+
+.backpack{
+  margin-top: 40px;
+}
+
+
+.btn.btns {
+  color: #fff;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px lightgray;
+}
+
+.card-title {
+  margin-bottom: 17px;
+  font-weight: 600;
+}
+
+.card-footer{
+    border-top: none;
+}
+
+#subscribe{
+    height: 200px;
+    background-color: #feeae9;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
+.contact-form{
+    border: 1px solid #FF136F;
+    border-radius: 6px;
+    padding: 8px 15px;
+    margin-right: 4px;
+}
+
+footer{
+    text-align: center;
+}
